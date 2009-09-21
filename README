@@ -1,0 +1,4 @@
+Simple Task Management system
+
+All the installation guidelines and requires notes will available soon.
+Desing concept: MySQL as DB, XML data structure and XSL templates. Plugins system for adding functionality (data types processing, special events and data manipulations, subversions syncronizations).
